@@ -1,0 +1,30 @@
+.texto-menor {
+
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.botao-categoria {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.botao-categoria:hover {
+    color: #ff730f;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+#botao-lilas {
+    background-color: #9353FF;
+}
+
+#botao-lilas:hover {
+    background-color: rgb(178, 137, 255);
+}
+
